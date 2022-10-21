@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkautukkundan%2FAwesome-Profile-README-templates%2Fblob%2Fmaster%2FdevSouvik.md&psig=AOvVaw2_xK6kooGmViDUi3NsIvvy&ust=1666455814958000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMi4xend8foCFQAAAAAdAAAAABAn">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulyadav745&label=Profile%20views&color=0e75b6&style=flat" alt="atulyadav745" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulyadav745" alt="atulyadav745" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJs**
 
@@ -12,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codeforces.com/profile/atul_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atul_21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
