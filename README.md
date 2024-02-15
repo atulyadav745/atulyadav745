@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Atul Yadav</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h5 align="center">I am Atul Yadav, a passionate software engineer, open source enthusiast at IIT (BHU) Varanasi. I love contributing to and building open source projects</h5>
 
 - 🌱 I’m currently learning **NodeJs**
 
 - 👯 I’m looking to collaborate on **Open source**
 
-- ![](https://komarev.com/ghpvc/?username=atulyadav745)
 
 
 <p align="left">
