@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atul Yadav</h1>
-<h5 align="center">I am Atul Yadav, a passionate software engineer, open source enthusiast at IIT (BHU) Varanasi. I love contributing to and building open source projects</h5>
+<h1 align="center">Hello there! 👋, I'm Atul Yadav</h1>
+<h5 align="center"> I am a third year engineering student at IIT (BHU) Varanasi. With a fervent passion for coding and a penchant for innovation, I thrive on contributing to and crafting open source projects that make a meaningful impact.</h5>
 
 - 🌱 I’m currently learning **NodeJs**
 
