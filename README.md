@@ -1,6 +1,6 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 <h1 align="center">Hello there! 👋, I'm Atul Yadav</h1>
-<h4 align="center"> I am a third year engineering student at IIT (BHU) Varanasi. With a fervent passion for coding and a penchant for innovation, I thrive on contributing to and crafting open source projects that make a meaningful impact.</h4>
+<h4 align="center"> I am a third-year engineering student at IIT (BHU) Varanasi. With a fervent passion for coding and a penchant for innovation, I thrive on contributing to and crafting open source projects that make a meaningful impact.</h4>
 
 - 🌱 I’m currently learning **NodeJs**
 
